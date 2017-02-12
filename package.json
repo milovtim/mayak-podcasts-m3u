@@ -1,0 +1,19 @@
+{
+  "name": "mayak-podcasts-m3u",
+  "version": "1.0.0",
+  "dependencies": {
+    "request": "latest",
+    "moment": "latest"
+  },
+  "description": "Load podcasts",
+  "main": "index.js",
+  "scripts": {
+    "mayak": "node index.js"
+  },
+  "keywords": [
+    "radiomayak"
+  ],
+  "author": "milovtim",
+  "license": "ISC",
+  "repository": "http:/hello.com"
+}
